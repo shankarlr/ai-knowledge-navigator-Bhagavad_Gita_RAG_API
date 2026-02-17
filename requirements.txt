@@ -1,7 +1,11 @@
+ 
 fastapi
 uvicorn
 langchain
 langchain-community
-langchain-ollama
 faiss-cpu
+python-dotenv
+streamlit
+requests
 pypdf
+langchain-text-splitters
