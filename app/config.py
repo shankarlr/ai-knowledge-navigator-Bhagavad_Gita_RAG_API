@@ -1,0 +1,6 @@
+EMBEDDING_MODEL = "nomic-embed-text"
+LLM_MODEL = "phi3"
+
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 50
+TOP_K = 2
